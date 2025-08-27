@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @F43ser also known as Felix Eickelmann
 - 👀 I’m interested in developing cool and well designed Webapplications with React & Next.js
-- 🌱 I’m currently learning C# and Maui for Mobileapp creation.
-- 📫 How to reach me: felix.eickelmann@fact-werbeagentur.de
+- 🌱 I’m currently Flutter for Mobileapp creation.
+- 📫 How to reach me: felix.eickelmann@fact-werbeagentur.de or kontakt@felix-eickelmann.de
 
 <!---
 F43ser/F43ser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
