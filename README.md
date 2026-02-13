@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @F43ser also known as Felix Eickelmann
 - 👀 I’m interested in developing cool and well designed Webapplications with React & Next.js
-- 🌱 I’m currently learning Flutter for Mobileapp creation.
+- 🌱 I’m currently learning Kotlin for Mobileapp and backend creation.
 - 📫 How to reach me: felix.eickelmann@fact-werbeagentur.de or kontakt@felix-eickelmann.de
 
 <!---
